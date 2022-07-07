@@ -1,0 +1,19 @@
+.container {
+    background-color: #c8c8ec;
+}
+
+body {
+    padding-top: 56px;
+}
+
+.text-white-50 {
+    background-color: #1d1aaf;
+}
+
+.lh-100 {
+    line-height: 1;
+}
+
+.lh-125 {
+    line-height: 1.25;
+}
